@@ -1,0 +1,62 @@
++--------------------------------------------------------------------------------------+
+| nav                                                                                  |
+| [ico:logo] [h3: ÔRBITA] [t3: TATTOO STUDIO] | [t3: POR VINICIUS FRANÇA]              |
+| [btn: INÍCIO] [lnk: PORTFÓLIO] [lnk: SOBRE] [lnk: CONTATO]  [btn2: [ico:cal] AGENDAR TATTOO] |
++--------------------------------------------------------------------------------------+
+
++--------------------------------------------------------------------------------------+
+| hero                                                                                 |
+| [ico:coroa]                                                  [img:estatua tatuada]   |
+| [h1: ARTE]                                                   [img:halo roxo]         |
+| [h1: NA PELE]                                                [ico:logo neon]         |
+| [h1: COM]                                       +--------------------+                |
+| [h1b: PROPÓSITO]                                | rail               |                |
+| [t1: Tatuagens autorais, exclusivas e           | [t3: TATTOO        |                |
+|      pensadas pra contar a sua história.]       |      AUTORAL]      |                |
+| [btn3: [ico:cal] AGENDAR MINHA TATTOO [ico:->]] | [t3: ESTILO        |                |
+|                                                 |      PERSONALIZADO]|                |
+| [img:folhas rasgadas]                           | [t3: ATENDIMENTO   |                |
+|                                                 |      INDIVIDUAL]   |                |
+|                                                 +--------------------+                |
++--------------------------------------------------------------------------------------+
+
++--------------------------------------------------------------------------------------+
+| features                                                                             |
+| +----------------+ +----------------+ +----------------+ +----------------+          |
+| | feat           | | feat           | | feat           | | feat           |          |
+| | [ico:lapis]    | | [ico:camadas]  | | [ico:escudo]   | | [ico:diamante] |          |
+| | [t2: Projetos  | | [t2: Atendi-   | | [t2: Ambiente  | | [t2: Qualidade |          |
+| |  Exclusivos]   | |  mento Pers.]  | |  Seguro e Hig.]| |  e Durabilid.] |          |
+| +----------------+ +----------------+ +----------------+ +----------------+          |
++--------------------------------------------------------------------------------------+
+
++--------------------------------------------------------------------------------------+
+| portfolio                                                                            |
+| [h2: PORTFÓLIO]        +-----------+ +-----------+ +-----------+ +-----------+       |
+| [t3: ALGUNS TRABALHOS  | media     | | media     | | media     | | media     |       |
+|      RECENTES]         | [img:leão]| | [img:rosto]| | [img:bússola]| [img:cobra]|     |
+|                        +-----------+ +-----------+ +-----------+ +-----------+       |
++--------------------------------------------------------------------------------------+
+
++--------------------------------------------------------------------------------------+
+| about                                                                                |
+| +-----------------+                                                                  |
+| | polaroid        |  [h2: SOBRE]                    | [t3: ESTILOS QUE TRABALHO]     |
+| | [ico:coroa]     |  [h2: O ARTISTA]               | +--------+ +--------+ +--------+|
+| | [av:Vinicius]   |  [t1: Vinicius França, tatuador | | tag    | | tag    | | tag    ||
+| +-----------------+       e artista visual, com     | |[t3:Real| |[t3:Black| |[t3:Fine||
+|                           foco em tatuagens         | | ismo]  | | work]  | | Line]  ||
+|                           autorais e personalizadas.| +--------+ +--------+ +--------+|
+|                           Cada projeto é            | +--------+ +--------+ +--------+|
+|                           desenvolvido de forma     | | tag    | | tag    | | tag    ||
+|                           única, unindo técnica,    | |[t3:Geom| |[t3:Somb| |[t3:Auto||
+|                           estética e a sua história.]| étrico]| | ras]   | | rais]  ||
+|                                                     | +--------+ +--------+ +--------+|
++--------------------------------------------------------------------------------------+
+
++--------------------------------------------------------------------------------------+
+| cta                                                                                  |
+| [img:mão esquerda tatuada]  [h2: VAMOS TATUAR]  [img:mão direita tatuada]            |
+|                             [h2b: SUA IDEIA?]                                        |
+|                             [btn3: [ico:cal] AGENDAR AGORA]                          |
++--------------------------------------------------------------------------------------+
