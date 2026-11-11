@@ -8,3 +8,8 @@ wireframe.txt
 README.md
 .gitignore
 .assetsignore
+
+node_modules
+.github
+package.json
+package-lock.json
